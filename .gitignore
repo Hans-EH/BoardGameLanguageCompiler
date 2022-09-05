@@ -1,0 +1,17 @@
+#Autogen from ANTLR
+/src/main/bgl/antlr
+
+**/.DS_Store
+*.asm
+*.c
+*.s
+.idea
+
+.classpath
+
+.project
+
+.settings/
+
+target/
+.idea/misc.xml
